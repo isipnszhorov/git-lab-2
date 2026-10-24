@@ -1,3 +1,4 @@
 # Git Lab 2
 Автор: Жоров Никита Сергеевич
 Комплексная работа по Git: ветки, конфликт, stash, revert, reset, подмодули и Git LFS.
+Draft documentation
